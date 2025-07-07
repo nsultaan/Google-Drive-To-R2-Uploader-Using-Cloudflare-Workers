@@ -7,7 +7,7 @@ export default {
 
         // Google Drive API Configuration
         const authConfig = {
-            client_id: "1074725900332-euqql7jnq258nd1t7bjq6vu1cqh89lu9.apps.googleusercontent.com",
+            client_id: "1074725900332-eqql7jnq258nd1t7bjq6vu1cqh89lu9.apps.googleusercontent.com",
             client_secret: "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",
             refresh_token: "1//04xGQH4fzTvoTCgYIARAAGAQSNwF-L9Ir_nescwuw8C_lcaUco2uhs2ryCqJnW0J44vUFsFD9AbeYN_w8s41OWLU_Afx7f3xlHw",
             secret_key: "AIzaSyA-VUv6d9lpL_I0pwFMZEJhhM8ggtZV354"
